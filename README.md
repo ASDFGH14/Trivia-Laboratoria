@@ -1,6 +1,6 @@
 # Trivia-Laboratoria
-##Objetivo
-##Función del proyecto
+<p>Objetivo<p/>
+<p>Función del proyecto<p/>
 Tematica
 Tipografía
 Paleta de colores
